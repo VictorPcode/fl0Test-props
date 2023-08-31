@@ -38,8 +38,10 @@ export default function Home() {
 
       <div className={styles.container}>
         <div className={styles.hero}>
-          <h1>Hello from FL0.</h1>
-          <p>Congratulations, you&apos;ve deployed a React + Next.js site with FL0!</p>
+          <h1>Area de pruebas VPcode</h1>
+          <p>Bienvenidos al VPcode WebSite de Area de Pruebas. Esta es una pagina de pruebas para el desarrollo de VPcode.
+            Para ello se utilizan los componentes de VPcode para crear una pagina web.
+          </p>
         </div>
         <div className={styles.logo}>
           <Image src="/images/logo.svg" loading="lazy" alt="" width="70" height="25" />
